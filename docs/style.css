@@ -1,0 +1,49 @@
+body {
+	background: #71b1ed;
+	color: #10230d;
+	left: 20%;
+	width: 60%;
+	position: fixed;
+	text-align: center;
+}
+div.left {
+	height: 100%;
+	width: 20%;
+	position: fixed;
+	z-index: 1;
+	top: 0;
+	left: 0;
+	background: #275f93;
+	color: black;
+	overflow-x: hidden;
+	border-right: 1px solid black;
+	padding-left: 2px;
+	padding-right: 2px;
+}
+div.bottom {
+	text-align: left;
+	height: 20%;
+	width: 100%;
+	position: fixed;
+	z-index: 2;
+	top: 80%;
+	left: 20%;
+	background: green;
+	color: black;
+	overflow-x: hidden;
+	border-top: 1px solid black;
+	border-left: 1px solid black;
+	padding-top: 2px;
+	padding-left: 2px;
+}
+.wa {
+	color: white;
+}
+.right {
+	position: fixed;
+	left: 80%;
+	top: 1%;
+	height: 39%;
+	width: 20%;
+	border: 1px solid black;
+}

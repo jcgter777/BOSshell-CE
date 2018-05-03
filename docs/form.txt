@@ -1,0 +1,18 @@
+BOSshell Registered developer form
+
+USERNAME/ALIAS:
+DATE COMPLETED:
+
+1) What kind(s) of software will you be making?
+2) Why do you want to develop software for BOSshell?
+3) What programming language(s) (TI-84+CE) do you know to an average level?
+4) What programming language(s) (TI-84+CE) do you know at an above-average level?
+5) Do you know any other programming languages (any system)?
+6) Are you familiar with the malcodes (you don't have to memorize) for the CE?
+7) How often do you program?
+8) How many of your projects do you complete?
+9) Do you intend to produce malware of any kind?
+
+BONUS) If you could, what would you like to see change or improve about BOSshell or this form?
+
+Thank you for taking your time in completing this form; It will be reviewed and you will most likely get the registered status.

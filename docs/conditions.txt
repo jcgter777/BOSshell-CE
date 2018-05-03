@@ -1,0 +1,6 @@
+BOSshell software conditions
+
+1) NO MALWARE OR MALCODES OF ANY KIND OR YOUR STATUS WILL BE REVOKED.
+2) Keyloggers can be considered malware, but if the user is notified during installation and the software is non-malicious, the software may be exept from this rule.
+3) Modifying the BOSshell source is strictly not allowed.
+4) Modifying the BOSshell os appvars ("BOSSosf0","BOSSosf1","BOSSosf2") is only allowed if the user is notified of this and they give permission.
